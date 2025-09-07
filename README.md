@@ -42,7 +42,7 @@
 
 ### 📈 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elnyaaaak&show_icons=true&locale=en&layout=compact&theme=radical" alt="Elnyaaaak's most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ORAX001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Elnyaaaak's most used languages" />
 
 ---
 
